@@ -8,7 +8,7 @@ public class JenkinsApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(JenkinsApplication.class, args);
-        System.out.println("hello---------------hello");
+        System.out.println("201911129公共---------------hello");
     }
 
 }
